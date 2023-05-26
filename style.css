@@ -14,3 +14,11 @@ p {
   text-align: center;
   margin: 0 20%;
 }
+
+.image1 {
+  margin-top: 10px;
+  width: 40%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
